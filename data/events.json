@@ -1,0 +1,5 @@
+[
+  {"id":"radio-distress-north","trigger":{"day":2},"radioText":"Distress signal detected in the northern blocks. Survivors request assistance.","questTemplateId":"distress-north-001"},
+  {"id":"railway-horde-warning","trigger":{"day":3,"minute":600},"radioText":"Horde warning: a large infected migration is entering Railway District."},
+  {"id":"cra-trade-request","trigger":{"day":4},"radioText":"CRA Railway Relief Checkpoint requests water and medical supplies.","questTemplateId":"cra-supply-request"}
+]

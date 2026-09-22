@@ -1,0 +1,22 @@
+[
+  {"id":"bottled-water","name":"Bottled Water","category":"food","weight":0.5,"stackSize":4,"baseValue":6},
+  {"id":"canned-rice","name":"Canned Rice Meal","category":"food","weight":0.6,"stackSize":4,"baseValue":7},
+  {"id":"dry-noodles","name":"Dry Noodles","category":"food","weight":0.3,"stackSize":6,"baseValue":5},
+  {"id":"energy-bar","name":"Energy Bar","category":"food","weight":0.1,"stackSize":8,"baseValue":4},
+  {"id":"bandage","name":"Bandage","category":"medical","weight":0.1,"stackSize":6,"baseValue":8},
+  {"id":"basic-medicine","name":"Basic Medicine","category":"medical","weight":0.2,"stackSize":4,"baseValue":12},
+  {"id":"fuel-can","name":"Fuel Can","category":"vehicle","weight":3.0,"stackSize":1,"baseValue":18},
+  {"id":"scrap-metal","name":"Scrap Metal","category":"materials","weight":1.0,"stackSize":8,"baseValue":4},
+  {"id":"electronics","name":"Salvaged Electronics","category":"materials","weight":0.5,"stackSize":6,"baseValue":9},
+  {"id":"vehicle-part","name":"Vehicle Part","category":"vehicle","weight":2.0,"stackSize":3,"baseValue":15},
+  {"id":"research-note","name":"Research Note","category":"intel","weight":0.1,"stackSize":1,"baseValue":30},
+  {"id":"batteries","name":"Batteries","category":"tools","weight":0.2,"stackSize":6,"baseValue":5},
+  {"id":"tool-kit","name":"Tool Kit","category":"tools","weight":2.5,"stackSize":1,"baseValue":20},
+  {"id":"tea-tin","name":"Tea Tin","category":"luxury","weight":0.3,"stackSize":3,"baseValue":10},
+  {"id":"coffee-pack","name":"Coffee Pack","category":"luxury","weight":0.4,"stackSize":3,"baseValue":11},
+  {"id":"paperback-book","name":"Paperback Book","category":"luxury","weight":0.4,"stackSize":2,"baseValue":6},
+  {"id":"seed-packet","name":"Seed Packet","category":"materials","weight":0.1,"stackSize":5,"baseValue":8},
+  {"id":"clean-cloth","name":"Clean Cloth","category":"materials","weight":0.2,"stackSize":8,"baseValue":3},
+  {"id":"improvised-club","name":"Improvised Club","category":"equipment","weight":1.6,"stackSize":1,"baseValue":10,"weapon":{"accuracy":0.78,"noise":8,"staminaCost":12,"damage":18,"range":1}},
+  {"id":"civilian-ranged-tool","name":"Civilian Ranged Tool","category":"equipment","weight":2.2,"stackSize":1,"baseValue":35,"weapon":{"accuracy":0.62,"noise":55,"staminaCost":6,"damage":24,"range":8}}
+]

@@ -1,0 +1,6 @@
+[
+  {"id":"calm","name":"Calm","polarity":"positive"},
+  {"id":"resourceful","name":"Resourceful","polarity":"positive"},
+  {"id":"anxious","name":"Anxious","polarity":"negative"},
+  {"id":"poor-sleeper","name":"Poor Sleeper","polarity":"negative"}
+]

@@ -1,0 +1,14 @@
+:root { color-scheme: dark; font-family: Inter, ui-sans-serif, system-ui, sans-serif; --ui-scale: 1; --text-scale: 1; }
+* { box-sizing: border-box; }
+html, body { margin: 0; min-height: 100%; background: #0b0f12; color: #f1f3f4; }
+body { min-height: 100vh; overflow: hidden; }
+button, input, select { font: inherit; }
+button { cursor: pointer; min-height: 40px; }
+#game-canvas { position: fixed; inset: 0; width: 100vw; height: 100vh; background: #151c20; z-index: 0; }
+#app, #hud-root, #modal-root { position: relative; z-index: 2; }
+html { font-size: 16px; }
+body { font-size: calc(1rem * var(--text-scale)); }
+.reduced-motion *, .reduced-motion *::before, .reduced-motion *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
+.flash-reduction { --flash-opacity: .18; }
+.large-icons button { min-width: 48px; min-height: 48px; }
+.touch-mode button { min-width: 44px; min-height: 44px; }
