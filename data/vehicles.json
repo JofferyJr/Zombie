@@ -1,0 +1,3 @@
+[
+  {"id":"utility-van","name":"Utility Van","seats":5,"cargo":20,"fuelCapacity":55,"fuelUsePerKm":0.12,"speed":150,"noise":45,"reliability":0.82,"offRoadAbility":0.4}
+]

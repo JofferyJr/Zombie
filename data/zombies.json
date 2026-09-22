@@ -1,0 +1,5 @@
+[
+  {"id":"walker","name":"Walker","speed":28,"health":45,"awareness":40,"noiseSensitivity":1.0,"evolutionDay":1,"threatValue":1},
+  {"id":"runner","name":"Runner","speed":55,"health":35,"awareness":50,"noiseSensitivity":1.2,"evolutionDay":1,"threatValue":2},
+  {"id":"heavy","name":"Heavy","speed":20,"health":100,"awareness":35,"noiseSensitivity":0.8,"evolutionDay":8,"threatValue":4}
+]

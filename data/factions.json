@@ -1,0 +1,8 @@
+[
+  {"id":"central-restoration-authority","name":"Central Restoration Authority","shortName":"CRA","description":"Former state and military structures attempting to restore regional administration.","tradeModifier":1.0,"colorToken":"slate"},
+  {"id":"iron-banner-coalition","name":"Iron Banner Coalition","shortName":"IBC","description":"Local militia coalition focused on community defense.","tradeModifier":1.08,"colorToken":"iron"},
+  {"id":"jade-river-union","name":"Jade River Union","shortName":"JRU","description":"Farmers, traders and river communities maintaining food routes.","tradeModifier":0.95,"colorToken":"jade"},
+  {"id":"longyuan-research-directorate","name":"Longyuan Research Directorate","shortName":"LRD","description":"Scientists and medical staff collecting outbreak data.","tradeModifier":1.15,"colorToken":"cyan"},
+  {"id":"black-road-network","name":"Black Road Network","shortName":"BRN","description":"Independent traders and fixers operating unofficial routes.","tradeModifier":1.25,"colorToken":"charcoal"},
+  {"id":"white-lantern-communities","name":"White Lantern Communities","shortName":"WLC","description":"Civilian shelters and clinics trying to preserve ordinary life.","tradeModifier":0.98,"colorToken":"ivory"}
+]

@@ -1,0 +1,10 @@
+[
+  {"id":"central-leitian","cityId":"leitian","name":"Central Leitian","danger":5,"lootProfile":"commercial","claimable":true,"mapWidth":1800,"mapHeight":1400},
+  {"id":"old-residential-district","cityId":"leitian","name":"Old Residential District","danger":3,"lootProfile":"residential","claimable":true,"mapWidth":1600,"mapHeight":1200},
+  {"id":"steelworks-zone","cityId":"leitian","name":"Steelworks Zone","danger":4,"lootProfile":"industrial","claimable":true,"mapWidth":1800,"mapHeight":1300},
+  {"id":"railway-district","cityId":"leitian","name":"Railway District","danger":3,"lootProfile":"transit","claimable":true,"mapWidth":1700,"mapHeight":1200},
+  {"id":"freight-logistics-park","cityId":"leitian","name":"Freight & Logistics Park","danger":3,"lootProfile":"logistics","claimable":true,"mapWidth":1800,"mapHeight":1200},
+  {"id":"riverside-district","cityId":"leitian","name":"Riverside District","danger":2,"lootProfile":"warehouse","claimable":true,"mapWidth":1600,"mapHeight":1200},
+  {"id":"northern-suburbs","cityId":"leitian","name":"Northern Suburbs","danger":1,"lootProfile":"suburban","claimable":true,"mapWidth":1600,"mapHeight":1200},
+  {"id":"outer-industrial-belt","cityId":"leitian","name":"Outer Industrial Belt","danger":4,"lootProfile":"industrial","claimable":true,"mapWidth":1900,"mapHeight":1300}
+]
